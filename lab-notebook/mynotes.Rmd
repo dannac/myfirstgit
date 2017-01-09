@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 this is my first git project
 
+This is my first change to track what git is doing. 
+
 ```{r}
 library(dplyr)
 ```
