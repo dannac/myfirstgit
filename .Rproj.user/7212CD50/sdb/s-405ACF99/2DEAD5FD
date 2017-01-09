@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Untitled\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n## R Markdown\n\nthis is my first git project\n\n```{r}\nlibrary(dplyr)\n```\n\n```{r}\nmtcars %>% glimpse\n```\n\n",
+    "created" : 1483976253556.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1765874317",
+    "id" : "2DEAD5FD",
+    "lastKnownWriteTime" : 1483976325,
+    "last_content_update" : 1483976325900,
+    "path" : "~/Repos/myfirstgit/lab-notebook/mynotes.Rmd",
+    "project_path" : "lab-notebook/mynotes.Rmd",
+    "properties" : {
+        "last_setup_crc32" : "69D6A2E5bb338d19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
